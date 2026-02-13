@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #ecece8;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(37, 37, 226);
+    font-size: 30px;
+}
+
+a:hover {
+    font-style: italic;
+    color: aqua;
+}
